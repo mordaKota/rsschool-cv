@@ -1,1 +1,1 @@
-https://mordaKota.github.io/rsschool-cv/cv
+https://mordaKota.github.io/rsschool-cv/
